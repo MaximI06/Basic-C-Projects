@@ -1,0 +1,5 @@
+This is a little poem written so I can do my coding assignment/learn how to open files in C. 
+
+Roses are red
+Violets are blue
+Learning C makes me want to high five you.
